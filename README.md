@@ -4,11 +4,9 @@ Consists of two projects: webserver and client.
 
 # Requirements
 This project uses Java 22 and JavaFX SDK version 22.0.1. 
-The JavaFX SDK is included in this repository, to add to the library before building the project.
-In the IDE, go to 
+Ensure the dependencies are loaded from Maven and SDK is added to library.
 ``File -> Project Structure -> libraries -> + -> Java``
 and select the lib folder from the JavaFX SDK.
-Also ensure to load the dependencies from Maven.
 
 # Build and Run the Project
 I am using IntelliJ to run this project, so I will describe it from that perspective.
